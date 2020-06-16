@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tiket Bioskop</string>
+    <string name="nama_film">Movie Title</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="film_name">Tv Show Title</string>
+    <string name="votecount">Vote Count</string>
+    <string name="bahasa">Language</string>
+    <string name="popularity">Popularity</string>
+    <string name="runtime">Runtime</string>
+    <string name="overview">Overview</string>
+
+
+    <string name="content_title">Content title</string>
+    <string name="content_text">Content text</string>
+    <string name="subtext">Sub text</string>
+    <string name="send_notif">Send Notif</string>
+</resources>

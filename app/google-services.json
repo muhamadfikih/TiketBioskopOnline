@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055941178833",
+    "firebase_url": "https://dbtiketbioskop.firebaseio.com",
+    "project_id": "dbtiketbioskop",
+    "storage_bucket": "dbtiketbioskop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055941178833:android:b876db0375750bf3d2dcf0",
+        "android_client_info": {
+          "package_name": "com.example.tiketbioskop2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055941178833-16h7bdo3s7lj4d5ai7idvi10ajrm5qae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiketbioskop2",
+            "certificate_hash": "5bb8c713a34247d216048cc8dcec6039b904edb1"
+          }
+        },
+        {
+          "client_id": "1055941178833-553gui58fhlh87bqlnugpj2al5g4h7up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrMUKpEr75UMnIyl9dHb_83SEcflOg42w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055941178833-553gui58fhlh87bqlnugpj2al5g4h7up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
